@@ -1,0 +1,2 @@
+Consumer Key : ck_5b4c11706489e893c3174b339c43427fcfcbc2b1
+Consumer Secret : cs_3d9ed6f77b858e61a52ef88bcf87da4ea1c524da
