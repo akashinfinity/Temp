@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513804322353",
+    "firebase_url": "https://goretails.firebaseio.com",
+    "project_id": "goretails",
+    "storage_bucket": "goretails.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513804322353:android:4e941db1c5b950d3e33710",
+        "android_client_info": {
+          "package_name": "com.f.goretails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513804322353-a0cb6ac25f08797h1p3d25kca31rs5fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.f.goretails",
+            "certificate_hash": "adad4df636c505d7ac25fbcd92a829f052f1ea6f"
+          }
+        },
+        {
+          "client_id": "513804322353-ctv4lphqe2kjtkdin6ifc7h4bjfpdogr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsj_iUjBCW9BD0J_RiB-m_3MrYWqpeZXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513804322353-ctv4lphqe2kjtkdin6ifc7h4bjfpdogr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

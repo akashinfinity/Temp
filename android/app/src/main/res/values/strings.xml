@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoRetails</string>
+
+    <string name="facebook_app_id">430258564493822</string>
+    <string name="fb_login_protocol_scheme">fb430258564493822</string>
+
+    <string name="api_key">AIzaSyDnBpxFOfeG6P06nK97hMg01kEgX48JhLE</string>
+    <string name="admob_api">ca-app-pub-7432665165146018~2664444130</string>
+</resources>
